@@ -108,4 +108,4 @@ This project is currently not available for contribution, it's a university proj
 However feel free to explore the code and learn from it.
 
 ## **License **
-This project is under MIT License 
+This project is under MIT License. See the License file for more details.
