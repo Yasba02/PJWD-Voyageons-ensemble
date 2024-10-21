@@ -34,6 +34,7 @@ To install and run this project on your local machine, follow these steps:
 VScode
 
 ## **Project Structure**
+```
 .
 ├── docs_phase3 # Screencast and additional documents for the university
 │ └── PJWD_Screencast.mov # Screencast that demonstrates functionality of the application
@@ -86,6 +87,7 @@ VScode
 ├── package-lock.json
 ├── LICENSE.txt # License file
 └── README.md # This file
+```
 
 ## **Usage**
 Voyageons ensemble is a travel blog, where travelers share articles about their experiences with the website administration, after approval the articles can be published to the public on behalf of the writers. The website supports commenting system to enable communication between readers and authors, or between readers themselves. 
