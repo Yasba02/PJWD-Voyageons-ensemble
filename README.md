@@ -2,15 +2,15 @@ Voyageons ensemble project is a university project of the course : "Java and Web
 A short screencast of the website from a user perspective can be found by accessing the PJWD_Screencast.mov video file in docs_phase3 folder.
 
 ## **Table of Contents**
-- [Prerequisites](#Prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
+1. [Prerequisites](#Prerequisites)
+2. [Installation](#installation)
+3. [Usage](#usage)
      -[User registration](#Userregistration)
      -[User authentification](#Userauthentification)
      -[Comment](#Comment)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Contact](#contact)
 
 
 ## **Prerequisites**
