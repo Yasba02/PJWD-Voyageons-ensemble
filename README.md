@@ -1,5 +1,5 @@
 Voyageons ensemble project is a university project of the course : "Java and Web Development". Voyageons ensemble was created with node.js and includes a database connection.
-A short screencast of the website from a user perspective can be found by accessing the PJWD_Screencast.mp4 video file in docs_phase3 folder.
+
 
 ## **Table of Contents**
 - [Prerequisites](#Prerequisites)
