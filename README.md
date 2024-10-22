@@ -55,7 +55,7 @@ VScode
 ├── Aboutus.html
 ├── Aboutus.Signin.html
 ├── Africa.html
-├── Algierarticle.html
+├── Algierarticle.html # With full documentation of the code 
 ├── America.html
 ├── Asia.html 
 ├── Australiaarticle.html
